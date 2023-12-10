@@ -1,2 +1,2 @@
 # git-lerning
-php 3 л.р
+PHP 3 ЛР
